@@ -4,7 +4,7 @@ fonttools==4.4.0
 fs==2.4.11
 -e git+https://github.com/LettError/glyphNameFormatter.git@a094d21bacc6e40f0e84809d5c9874ef951ab8aa#egg=Glyph_Name_Formatter
 numpy==1.18.1
-Pillow==7.0.0
+Pillow==8.2.0
 pytz==2019.3
 PyYAML==5.3
 six==1.14.0
